@@ -1,0 +1,9 @@
+@media screen and (max-width: 667px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+.btn-outline-dark {
+  background-color: white;
+}
